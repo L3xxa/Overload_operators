@@ -1,0 +1,3 @@
+D:/ItStep/C++/JANUARY/Overload operators (29.01.25)/cmake-build-debug/CMakeFiles/Overload_operators__29_01_25_.dir
+D:/ItStep/C++/JANUARY/Overload operators (29.01.25)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ItStep/C++/JANUARY/Overload operators (29.01.25)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
